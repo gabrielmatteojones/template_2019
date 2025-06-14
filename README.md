@@ -1,41 +1,22 @@
-# Design Jekyll Theme
+# 🌐 Template Web – Gabriel Matteo Jones (Licenza DataWin)
 
-A Jekyll theme based on the [UI Kit](https://github.com/italia/design-ui-kit)
-and built with [Bootstrap Italia](https://github.com/italia/bootstrap-italia/).
+Benvenuti nel template ufficiale di Gabriel Matteo Jones.  
+Questa repository offre una base semplice ma completa per creare siti web statici o dinamici, sfruttando il sistema di licenza **DataWin**, pensato per garantire libertà, semplicità e attribuzione.
 
-## Getting started
+---
 
-The theme itself is a starting point for a Jekyll-based website. You can refer
-to the [official Jekyll docs](https://jekyllrb.com/docs/) for further details
-on how to install it locally.
+## 🚀 Funzionalità principali
 
-If you already have `bundler` installed, you can install jekyll and budler gems
-with:
+- Interfaccia pulita e moderna
+- Layout responsive e mobile-friendly
+- Facile da personalizzare (HTML, CSS, JS)
+- Pronto per il deploy su GitHub Pages, Netlify, Vercel, ecc.
+- Licenza *DataWin* per uso commerciale e personale
 
-`bundle install`
+---
 
-However, if you want to install the dependencies locally you can run:
+## 🛠️ Requisiti
 
-`bundle install --path vendor/bundle`
-
-You can build the site and make it available on a local server with:
-
-`bundle exec jekyll serve --config {_config.yml, _config_dev.yml}`
-
-picking one of the two config files where:
-
-*  _config.yml is the production file
-*  _config_dev.yml is the development file.
-
-### Notes
-
-You can run the server just with `bundle exec jekyll serve`: the webiste will
-be available on http://localhost:4000/design-jeyll-theme. This is the default
-settings to allow usage with GitHub pages.
-
-The aforementioned addition of `_config_dev.yml` is needed to run the server on
-http://localhost:4000 without any subpath.
-
-# License
-This repository is licensed with a BSD-3-Clause license. Please check the
-[LICENSE](LICENSE) file to know more details about this.
+- Editor di testo (es. VS Code)
+- Conoscenze base di HTML/CSS/JS (opzionale)
+- Connessione a internet (per l’hosting)
